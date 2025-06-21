@@ -12,7 +12,7 @@ Que el estudiante aplique las habilidades, conocimientos y destrezas adquiridas 
 
 ### [Moodle](https://educacion.pilares.cdmx.gob.mx/)
 
-#### [Taller de pensamiento computacional]()
+#### [Taller de pensamiento computacional](https://github.com/angelumoca21/PensamientoComputacional)
 #### [Taller de desarrollo de páginas web]()
 #### [Taller de base de datos]()
 #### [Taller de programación Python o Java]()
